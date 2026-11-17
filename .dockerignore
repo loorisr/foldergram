@@ -12,3 +12,15 @@ gallery
 thumbnails
 previews
 .mocks
+**/node_modules
+**/dist
+.github
+docs
+client/e2e
+client/test-results
+client/playwright-report
+server/test
+*.md
+.env.*
+Dockerfile
+.dockerignore
